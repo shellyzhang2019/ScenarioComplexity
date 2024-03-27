@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T02:23:26.821Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9zg-KbI1sn3n5NHlsrJH" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T02:45:55.021Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TmNiWwDTVC6KNRV7eKEv" version="24.2.0" type="github">
   <diagram name="Page-1" id="ERAuste03dF2PS-MhXEH">
     <mxGraphModel dx="1050" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,6 +92,9 @@
         </mxCell>
         <mxCell id="aY5sefsrK0JdQ0qXnlMu-1" value="Active Trajectory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="296" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aY5sefsrK0JdQ0qXnlMu-2" value="Prohibited Area" style="triangle;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="177" y="567" width="199" height="103" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
